@@ -1,1 +1,1 @@
-ultralytics 8.1.28 avoid * ops on bool Tensors for RT-DETR OpenVINO export (#8937)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
