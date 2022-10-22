@@ -1,1 +1,1 @@
-Disable Tab Limit - Disables the default tab limit (varies giữa devices)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
