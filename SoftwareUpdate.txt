@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
