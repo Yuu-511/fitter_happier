@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
