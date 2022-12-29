@@ -1,1 +1,1 @@
-Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
