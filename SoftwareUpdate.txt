@@ -1,1 +1,1 @@
-Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
+Upload Any File - An additional option to the document sheet that can be used to upload any file on your root file system
