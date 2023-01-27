@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
