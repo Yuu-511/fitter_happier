@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Clarify triton server boolean value (#8532)
