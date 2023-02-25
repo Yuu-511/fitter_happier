@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Fix cmake requirements for ARM64 (#8589)
