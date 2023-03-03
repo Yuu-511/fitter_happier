@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+Update Docs Home and Neural Magic pages (#7243)
