@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Add plot_images conf_thresh parameter (#8446)
