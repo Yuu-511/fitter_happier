@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Add C++ Classify inference example (#6868)
