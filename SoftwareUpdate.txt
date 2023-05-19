@@ -1,1 +1,1 @@
-fix resume training
+Mkdocs annotations fixes (#7600)
