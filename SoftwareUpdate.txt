@@ -1,1 +1,1 @@
-Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
