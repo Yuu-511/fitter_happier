@@ -1,1 +1,1 @@
-add yolov10
+Mkdocs updates (#8008)
