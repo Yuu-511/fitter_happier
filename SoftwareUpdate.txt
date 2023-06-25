@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Avoid creating -hub dir without processing images (#8334)
