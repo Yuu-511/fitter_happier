@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
