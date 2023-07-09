@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
