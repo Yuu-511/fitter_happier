@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Improve Docs arguments tables (#8415)
