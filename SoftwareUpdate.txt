@@ -1,1 +1,1 @@
-update requirements.txt
+fix predict with class filter
