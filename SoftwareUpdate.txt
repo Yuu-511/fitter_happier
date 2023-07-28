@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
