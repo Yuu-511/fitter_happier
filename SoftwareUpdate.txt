@@ -1,1 +1,1 @@
-ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
