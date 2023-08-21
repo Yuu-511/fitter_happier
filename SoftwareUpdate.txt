@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
