@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
