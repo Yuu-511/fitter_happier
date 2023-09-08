@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
