@@ -1,1 +1,1 @@
-ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
