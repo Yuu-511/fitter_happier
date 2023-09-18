@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
