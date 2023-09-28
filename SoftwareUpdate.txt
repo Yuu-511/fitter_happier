@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Fix TFLite INT8 for OBB (#7989)
