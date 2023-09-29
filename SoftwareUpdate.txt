@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Add dota8.yaml and O tests (#7394)
