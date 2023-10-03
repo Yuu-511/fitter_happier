@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Improve Coral Edge TPU guide (#8160)
