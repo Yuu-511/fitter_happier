@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
