@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Add horizontal Mosaic3 augmentation (#6898)
