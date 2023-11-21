@@ -1,1 +1,1 @@
-ultralytics 8.1.20 add YOLOv8x-World support (#8539)
+Add estimate_speed(region_color) parameter (#8285)
