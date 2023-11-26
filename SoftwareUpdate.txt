@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
