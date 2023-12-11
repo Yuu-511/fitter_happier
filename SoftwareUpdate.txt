@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+ultralytics 8.1.29 improved disk space checking on correct path (#8977)
