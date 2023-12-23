@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+Fix docker.yaml double-quote version bug (#7452)
