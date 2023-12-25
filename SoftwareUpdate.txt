@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Improve Docs Modes tables (#8266)
