@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
