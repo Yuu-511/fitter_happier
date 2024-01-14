@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Update inference.cpp (bug) (#7279)
