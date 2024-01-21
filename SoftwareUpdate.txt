@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
