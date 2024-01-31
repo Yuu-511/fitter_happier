@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Add missing single-line docstrings (#8362)
