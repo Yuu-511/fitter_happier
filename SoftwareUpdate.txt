@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+Add YOLOv8 LibTorch C++ inference example (#7090)
