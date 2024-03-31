@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Add plot_images conf_thresh parameter (#8446)
