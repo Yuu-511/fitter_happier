@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Use pathlib in DOTA ops (#7552)
