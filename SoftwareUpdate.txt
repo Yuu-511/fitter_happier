@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Fix cmake requirements for ARM64 (#8589)
